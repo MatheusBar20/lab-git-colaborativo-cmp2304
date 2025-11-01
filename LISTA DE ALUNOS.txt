@@ -1,2 +1,6 @@
-"20250002 Jo�o Victor" 
+#Pontifícia Universidade Católica de Goiás - PUC
+#Goiânia, 19 de setembro de 2025
+#Professor: Daniel Corrêa
+
+"20250002 JoÆo Victor" 
 20250021 Matheus Barros Segundo 
